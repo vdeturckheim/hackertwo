@@ -1,0 +1,25 @@
+{
+  "name": "hackertwo",
+  "version": "0.0.0",
+  "description": "HackerOne API for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vdeturckheim/hackertwo.git"
+  },
+  "keywords": [
+    "hackerone"
+  ],
+  "author": "Vladimir de Turckheim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vdeturckheim/hackertwo/issues"
+  },
+  "homepage": "https://github.com/vdeturckheim/hackertwo#readme",
+  "dependencies": {
+    "wreck": "^14.0.2"
+  }
+}
