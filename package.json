@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/vdeturckheim/hackertwo#readme",
   "dependencies": {
+    "joi": "^13.3.0",
     "wreck": "^14.0.2"
   }
 }
